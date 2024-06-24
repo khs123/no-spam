@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eway.icallme",
+      "sha256_cert_fingerprints": [
+        "A7:06:04:F8:49:32:D9:53:A3:B3:16:D0:A8:1A:B6:87:4A:0C:07:0A:8C:88:0C:85:13:74:8B:F8:AD:2B:51:4F"
+      ]
+    }
+  }
+]
